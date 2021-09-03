@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **a modern workplace collaboration system at work**
 
-- 🌱 I’m currently learning **PL/SQL, MySQL JavaScript**
+- 🌱 I’m currently learning **React, Azure Kubernetes Services, JavaScript**
 
 - 💬 Ask me about **PowerShell, Azure, Security, and T-SQL**
 
