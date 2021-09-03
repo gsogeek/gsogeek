@@ -6,6 +6,7 @@
   <a href="https://twitter.com/gsogeek" target="blank"> <img src="https://img.shields.io/twitter/follow/gsogeek?logo=twitter&style=plastic" alt="twitter gsogeek" /> </a> 
   <a href="https://www.reddit.com/user/gsogeek" target="blank"> <img src="https://img.shields.io/reddit/user-karma/combined/gsogeek?logo=reddit&logoColor=white&style=plastic" alt="Reddit User gsogeek Karma"> </a>
     <a href="https://www.twitch.tv/gsogeek" target="blank"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/gsogeek?logo=twitch&logoColor=white&style=plastic"> </a>
+  <a href="https://blog.gsogeek.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Blog%20site&style=plastic&up_color=green&up_message=Online&url=https%3A%2F%2Fgsogeek.com"></a>
 </p>
   
 - 🔭 I’m currently working on **a modern workplace collaboration system at work**
