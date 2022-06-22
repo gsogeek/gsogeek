@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A security, infrastructure, and automation geek in North Carolina, USA</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gsogeek&label=Profile%20views&color=0e75b6&style=plastic" alt="gsogeek" />
   <a href="https://twitter.com/gsogeek" target="blank"> <img src="https://img.shields.io/twitter/follow/gsogeek?logo=twitter&style=plastic" alt="twitter gsogeek" /> </a> 
   <a href="https://www.reddit.com/user/gsogeek" target="blank"> <img src="https://img.shields.io/reddit/user-karma/combined/gsogeek?logo=reddit&logoColor=white&style=plastic" alt="Reddit User gsogeek Karma"> </a>
@@ -37,9 +37,13 @@
   
 </p>
 
+<p>
 <h3 align="left">Ways to connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gsogeek" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsogeek" height="50" width="60" /> </a>
 <a href="https://twitter.com/gsogeek" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gsogeek" height="30" width="40" /> </a>
 <a href="https://instagram.com/gsogeek" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gsogeek" height="30" width="40"/> </a>
+</p>
+<p>
+  <img src="https://ghchart.rshah.org/gsogeek" alt="Matt's Github chart, such as it is" />
 </p>
