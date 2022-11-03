@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on a migration of tools and infrastructure for my employer, so no real additional green squares
 
-- 🌱 I’m currently learning Swift, JavaScript, and how to count the tabs in a YAML file
+- 🌱 I’m currently learning automation, and how to count the tabs in a YAML file
 
 - 💬 Ask me about PowerShell, Azure, Security, and Automation
 
