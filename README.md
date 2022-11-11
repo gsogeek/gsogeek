@@ -1,52 +1,71 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A security, infrastructure, and automation geek in North Carolina, USA</h3>
+# 💫 About Me
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gsogeek&label=Profile%20views&color=0e75b6&style=plastic" alt="gsogeek" />
-  <a href="https://twitter.com/gsogeek" target="blank"> <img src="https://img.shields.io/twitter/follow/gsogeek?logo=twitter&style=plastic" alt="twitter gsogeek" /> </a> 
-  <a href="https://www.reddit.com/user/gsogeek" target="blank"> <img src="https://img.shields.io/reddit/user-karma/combined/gsogeek?logo=reddit&logoColor=white&style=plastic" alt="Reddit User gsogeek Karma"> </a>
-    <a href="https://www.twitch.tv/gsogeek" target="blank"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/gsogeek?logo=twitch&logoColor=white&style=plastic"> </a>
-  <a href="https://blog.gsogeek.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Blog%20site&style=plastic&up_color=green&up_message=Online&url=https%3A%2F%2Fgsogeek.com"></a>
-</p>
-  
-- 🔭 I’m currently working on a migration of tools and infrastructure for my employer, so no real additional green squares
+🔭 I’m currently working on migrating infrastructure to the cloud  
+🤝 I’m looking for help with starting a security and compliance program  
+🌱 I’m currently learning Data Engineering, Security, Compliance  
+💬 Ask me about PowerShell, T-SQL, Azure  
+⚡ Fun fact about me, I love to go hiking in areas with no cell coverage.
 
-- 🌱 I’m currently learning automation, and how to count the tabs in a YAML file
+## 🌐 Socials
 
-- 💬 Ask me about PowerShell, Azure, Security, and Automation
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/RangerMattNC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gsogeek)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gsogeek)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gsogeek)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rangermatt)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gsogeek)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gsogeek)
 
-- 📫 You can reach me at rangermatt@icloud.com
+## 💻 Tech Stack
 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gsogeek/gsogeek/blob/master/devcard.svg" width="400" alt="Matt's Dev Card"/></a>
+## 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools I've worked with:</h3>
-<p align="left"> 
-  <a href="https://microsoft.com/powershell" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a>
-  <a href="https://azure.microsoft.com/en-us/services/devops" target="_blank"><img src="http://www.alessandromoura.com.br/wp-content/uploads/2020/04/Azure-DevOps-3.png"alt="AzureDevOps" width="50" height="50"/> </a>
-  <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/> </a>
-  </br>
-  <a href="http://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="mssql" width="50" height="50"/> </a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://sass-lang.com/" target="_blnak"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="50" height="50"/> </a>
-  
-</p>
+| ![](https://github-readme-stats.vercel.app/api?username=gsogeek&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=gsogeek&theme=default&hide_border=false) |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsogeek&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
-<p>
-<h3 align="left">Ways to connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gsogeek" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsogeek" height="50" width="60" /> </a>
-<a href="https://twitter.com/gsogeek" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gsogeek" height="30" width="40" /> </a>
-<a href="https://instagram.com/gsogeek" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gsogeek" height="30" width="40"/> </a>
-</p>
-<p>
-  <img src="https://ghchart.rshah.org/gsogeek" alt="Matt's Github chart, such as it is" />
-</p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=gsogeek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📰 My DevCard from Daily.Dev
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gsogeek/gsogeek/blob/main/devcard.svg" width="400" alt="Matt B's's Dev Card"/></a>
+
+[![](https://visitcount.itsvg.in/api?id=gsogeek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
