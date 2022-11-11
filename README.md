@@ -17,6 +17,9 @@
 
 - 📫 You can reach me at rangermatt@icloud.com
 
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gsogeek/gsogeek/blob/master/devcard.svg" width="400" alt="Matt's Dev Card"/></a>
+
 <h3 align="left">Languages and Tools I've worked with:</h3>
 <p align="left"> 
   <a href="https://microsoft.com/powershell" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50"/> </a>
