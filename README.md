@@ -15,6 +15,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rangermatt)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gsogeek)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gsogeek)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=%40RangerMatt&style=social)
 
 ## 💻 Tech Stack
 
@@ -51,7 +52,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-! <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a>
+
 
 ## 📊 GitHub Stats
 
