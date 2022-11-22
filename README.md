@@ -15,7 +15,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rangermatt)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gsogeek)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gsogeek)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=%40RangerMatt&style=social)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=%40RangerMatt&style=social)](https://tech.lgbt/@RangerMatt)
 
 ## 💻 Tech Stack
 
@@ -69,5 +69,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gsogeek/gsogeek/blob/main/devcard.svg" width="400" alt="Matt B's's Dev Card"/></a>
 
 [![](https://visitcount.itsvg.in/api?id=gsogeek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
