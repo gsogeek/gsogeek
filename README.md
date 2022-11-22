@@ -70,6 +70,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=gsogeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a>
+<a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon Verification Link</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
