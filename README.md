@@ -16,7 +16,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rangermatt)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gsogeek)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gsogeek)
-[![Mastodon](https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=%40RangerMatt&style=social)](https://tech.lgbt/@RangerMatt)
+<a rel="me" href="https://tech.lgbt/@RangerMatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=Follow%20%40RangerMatt&style=social"></a>
+<a rel="me" href="https://infosec.exchange/@gsogeek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388952396346480?domain=https%3A%2F%2Finfosec.exchange&label=Follow%20%40gsogeek&style=social"></a>
 
 ## 💻 Tech Stack
 
