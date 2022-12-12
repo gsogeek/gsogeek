@@ -66,12 +66,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=gsogeek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📰 My DevCard from Daily.Dev
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gsogeek/gsogeek/blob/main/devcard.svg" width="400" alt="Matt B's's Dev Card"/></a>
-
-[![](https://visitcount.itsvg.in/api?id=gsogeek&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon Verification Link</a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
