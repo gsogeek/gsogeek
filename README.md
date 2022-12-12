@@ -5,19 +5,19 @@
 🌱 I’m currently learning Data Engineering, Security, Compliance  
 💬 Ask me about PowerShell, T-SQL, Azure  
 ⚡ Fun fact about me, I love to go hiking in areas with no cell coverage.  
-🙂 I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https:infosec.exchange/@gsogeek"> couple</a> <a rel="me" href="hachyderm.io/@gsogeek">different</a> instances.
+🙂 I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https://infosec.exchange/@gsogeek"> couple</a> <a rel="me" href="https://hachyderm.io/@rangermatt">different</a> instances.
 
 ## 🌐 Socials
+<a rel="me" href="https://instagram.com/gsogeek"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&label=gsogeek"></a>
+<a rel="me" href="https://linkedin.com/in/gsogeek"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&label=gsogeek"></a>
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/gsogeek?style=social">
+<a rel="me" href="https://stackoverflow.com/users/gsogeek"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&label=gsogeek"></a>
+<a rel="me" href="https://tiktok.com/@rangermatt"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&label=RangerMatt"></a>
+<a rel="me" href="https://twitch.tv/gsogeek"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&label=gsogeek"></a>
+<a rel="me" href="https://tech.lgbt/@RangerMatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=@RangerMatt@tech.lgbt&style=social"></a>
+<a rel="me" href="https://infosec.exchange/@gsogeek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388952396346480?domain=https%3A%2F%2Finfosec.exchange&label=@gsogeek@infosec.exchange&style=social"></a>
+<a rel="me" href="https://hachyderm.io/@rangermatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388633834369558?domain=https%3A%2F%2Fhachyderm.io&label=@RangerMatt@hachyderm.io&style=social"></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/RangerMattNC)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gsogeek)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gsogeek)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gsogeek)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rangermatt)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gsogeek)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gsogeek)
-<a rel="me" href="https://tech.lgbt/@RangerMatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=Follow%20%40RangerMatt&style=social"></a>
-<a rel="me" href="https://infosec.exchange/@gsogeek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388952396346480?domain=https%3A%2F%2Finfosec.exchange&label=Follow%20%40gsogeek&style=social"></a>
 
 ## 💻 Tech Stack
 
