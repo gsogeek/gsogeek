@@ -5,7 +5,7 @@
 🏫 I’m currently learning Data Engineering, Security, Compliance  
 💬 Ask me about PowerShell, T-SQL, Azure  
 📖 Fun fact about me, I love to go hiking in areas with no cell coverage.  
-🗨️ I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https://infosec.exchange/@gsogeek"> couple</a> <a rel="me" href="https://hachyderm.io/@rangermatt">different</a> instances.
+🗨️ I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https://infosec.exchange/@gsogeek">couple</a> <a rel="me" href="https://hachyderm.io/@rangermatt">different</a> instances.
 
 ## 🌐 Social Media and other places I'm at
 <a rel="me" href="https://instagram.com/gsogeek"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&label=gsogeek"></a>
