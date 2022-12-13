@@ -1,13 +1,13 @@
-# 💫 About Me
+# 👋 About Me
 
-🔭 I’m currently working on migrating infrastructure to the cloud  
+🧑‍💼 I’m currently working on migrating infrastructure to the cloud  
 🤝 I’m looking for help with starting a security and compliance program  
-🌱 I’m currently learning Data Engineering, Security, Compliance  
+🏫 I’m currently learning Data Engineering, Security, Compliance  
 💬 Ask me about PowerShell, T-SQL, Azure  
-⚡ Fun fact about me, I love to go hiking in areas with no cell coverage.  
-🙂 I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https://infosec.exchange/@gsogeek"> couple</a> <a rel="me" href="https://hachyderm.io/@rangermatt">different</a> instances.
+📖 Fun fact about me, I love to go hiking in areas with no cell coverage.  
+🗨️ I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https://infosec.exchange/@gsogeek"> couple</a> <a rel="me" href="https://hachyderm.io/@rangermatt">different</a> instances.
 
-## 🌐 Socials
+## 🌐 Social Media and other places I'm at
 <a rel="me" href="https://instagram.com/gsogeek"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&label=gsogeek"></a>
 <a rel="me" href="https://linkedin.com/in/gsogeek"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&label=gsogeek"></a>
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/gsogeek?style=social">
@@ -17,9 +17,10 @@
 <a rel="me" href="https://tech.lgbt/@RangerMatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=@RangerMatt@tech.lgbt&style=social"></a>
 <a rel="me" href="https://infosec.exchange/@gsogeek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388952396346480?domain=https%3A%2F%2Finfosec.exchange&label=@gsogeek@infosec.exchange&style=social"></a>
 <a rel="me" href="https://hachyderm.io/@rangermatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388633834369558?domain=https%3A%2F%2Fhachyderm.io&label=@RangerMatt@hachyderm.io&style=social"></a>
+<p>I'm also working on getting a <a rel="me" href="https://blog.gsogeek.com">blog</a> together that I hope (eventually🤞) to start writing in...</p>
 
 
-## 💻 Tech Stack
+## 💻 Tech Stack I work with
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
