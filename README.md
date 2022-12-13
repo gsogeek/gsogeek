@@ -5,18 +5,17 @@
 🏫 I’m currently learning Data Engineering, Security, Compliance  
 💬 Ask me about PowerShell, T-SQL, Azure  
 📖 Fun fact about me, I love to go hiking in areas with no cell coverage.  
-🗨️ I'm also playing around with <a rel="me" href="https://tech.lgbt/@RangerMatt">Mastodon</a> on a <a rel="me" href="https://infosec.exchange/@gsogeek">couple</a> <a rel="me" href="https://hachyderm.io/@rangermatt">different</a> instances.
 
 ## 🌐 Social Media and other places I'm at
-<a rel="me" href="https://instagram.com/gsogeek"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&label=gsogeek"></a>
-<a rel="me" href="https://linkedin.com/in/gsogeek"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&label=gsogeek"></a>
+<p><a rel="me" href="https://instagram.com/gsogeek"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&label=gsogeek"></a></br>
+<a rel="me" href="https://linkedin.com/in/gsogeek"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&label=gsogeek"></a></br>
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/gsogeek?style=social">
-<a rel="me" href="https://stackoverflow.com/users/gsogeek"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&label=gsogeek"></a>
-<a rel="me" href="https://tiktok.com/@rangermatt"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&label=RangerMatt"></a>
-<a rel="me" href="https://twitch.tv/gsogeek"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&label=gsogeek"></a>
-<a rel="me" href="https://tech.lgbt/@RangerMatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109303542361186357?domain=https%3A%2F%2Ftech.lgbt&label=@RangerMatt@tech.lgbt&style=social"></a>
-<a rel="me" href="https://infosec.exchange/@gsogeek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388952396346480?domain=https%3A%2F%2Finfosec.exchange&label=@gsogeek@infosec.exchange&style=social"></a>
-<a rel="me" href="https://hachyderm.io/@rangermatt"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109388633834369558?domain=https%3A%2F%2Fhachyderm.io&label=@RangerMatt@hachyderm.io&style=social"></a>
+<a rel="me" href="https://stackoverflow.com/users/gsogeek"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&label=gsogeek"></a></br>
+<a rel="me" href="https://tiktok.com/@rangermatt"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&label=RangerMatt"></a></br>
+<a rel="me" href="https://twitch.tv/gsogeek"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&label=gsogeek"></a></br>
+<a rel="me" href="https://tech.lgbt/@RangerMatt">@rangermatt@tech.lgbt</a></br>
+<a rel="me" href="https://infosec.exchange/@gsogeek">@gsogeek@infosec.exchange</a></br>
+<a rel="me" href="https://hachyderm.io/@rangermatt">@RangerMatt@hachyderm.io</a></p>
 <p>I'm also working on getting a <a rel="me" href="https://blog.gsogeek.com">blog</a> together that I hope (eventually🤞) to start writing in...</p>
 
 
@@ -68,3 +67,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=gsogeek&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
