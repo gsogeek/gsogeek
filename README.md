@@ -14,8 +14,6 @@
 <a rel="me" href="https://tiktok.com/@rangermatt"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&label=RangerMatt"></a></br>
 <a rel="me" href="https://twitch.tv/gsogeek"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&label=gsogeek"></a></br>
 <a rel="me" href="https://tech.lgbt/@RangerMatt">@rangermatt@tech.lgbt</a></br>
-<a rel="me" href="https://infosec.exchange/@gsogeek">@gsogeek@infosec.exchange</a></br>
-<a rel="me" href="https://hachyderm.io/@rangermatt">@RangerMatt@hachyderm.io</a></p>
 <p>I'm also working on getting a <a rel="me" href="https://blog.gsogeek.com">blog</a> together that I hope (eventually🤞) to start writing in...</p>
 
 
