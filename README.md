@@ -12,7 +12,7 @@ I work in the IT Security, Infrastructure, and data world, with a real love for 
 
 
 ### Social Links
-<a rel="me" href="https://tech.lgbt/@RangerMatt"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='mastodon' width='40' height='40'></a>
+<a rel="me" href="https://rangermatt@mastodon.social"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='mastodon' width='40' height='40'></a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gsogeek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/gsogeek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gsogeek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ZKs5QMk1ijq6doWL3NfMHQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/gsogeek) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gsogeek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/applemusic.svg' alt='applemusic' height='40'>](https://music.apple.com/profile/rangermatt)
 
 ### GitHub Icons and Stats
